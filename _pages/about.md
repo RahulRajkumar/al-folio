@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Mathematics PhD Student at <a href="https://mathdept.ucr.edu/">UC Riverside</a> 
+description: Ph.D. Student
 
 profile:
   align: right
@@ -20,9 +20,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
-# Under construction
 
-
+I am currently a second year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu). I graduated from NYU with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*, in May 2020, through the College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynamic/undergrad/ba-cas/majors-minors/honors-programs/). Please see [my CV](assets/pdf/cv.pdf) for more details!
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
