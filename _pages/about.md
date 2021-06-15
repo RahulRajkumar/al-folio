@@ -7,6 +7,7 @@ description: Ph.D. Student
 profile:
   align: right
   image: profile_pic.jpg
+  image_label: A picture of me with ice cream in the West Village, NYC
   address: >
     <p><a href="mailto:{{ site.email | encode_email }}" title="Email me">Email me</a>
     <!-- Office currently unassigned

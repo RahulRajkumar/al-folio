@@ -12,15 +12,35 @@ article div {
   margin-bottom: 1rem;
 }
 
+// https://css-tricks.com/having-fun-with-link-hover-effects/
+// https://codepen.io/geoffgraham/pen/GXoOdK
 a, table.table a {
+    background:
+	linear-gradient(
+	    to bottom, var(--global-theme-color) 0%,
+	    var(--global-theme-color) 100%
+	);
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 1px 1px;
+    color: var(--global-text-color);
+    text-decoration: none;
+    transition: background-size 0.2s;
+
+&:hover {
+    background-size: 4px 50px;
+    color: var(--global-hover-color);
+}
+    /*
   color: var(--global-theme-color);
   &:hover {
     color: var(--global-theme-color);
-    text-decoration: underline;
+    //    text-decoration: underline;
+    background-color: var(--global-theme-color);
   }
   &:hover:after {
     width: 100%;
-  }
+  } */
 }
 
 // Math
@@ -84,7 +104,8 @@ a, table.table a {
 }
 
 
-// Navbar customization
+// Nav
+bar customization
 
 .navbar {
   box-shadow: none;
@@ -95,7 +116,7 @@ a, table.table a {
 .navbar.navbar-light {
   a {
     &:hover {
-      text-decoration: none;
+	text-decoration: none;
     }
   }
   .navbar-brand {
@@ -216,7 +237,7 @@ footer.fixed-bottom {
   a {
     color: var(--global-footer-link-color);
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);
       text-decoration: none;
     }
   }
