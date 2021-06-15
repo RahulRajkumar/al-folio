@@ -1,22 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Mathematics PhD Student at <a href="https://mathdept.ucr.edu/">UC Riverside</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   address: >
+    <p><a href="mailto:{{ site.email | encode_email }}" title="Email me">Email me</a>
+    <!-- Office currently unassigned
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
+    -->
 
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
 # Under construction
+
+
+
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
