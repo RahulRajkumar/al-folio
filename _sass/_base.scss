@@ -120,7 +120,10 @@ bar customization
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+      color: var(--global-text-color);
+      &:hover {
+	  color: var(--global-hover-color);
+      }
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -135,6 +138,11 @@ bar customization
       &:hover {
         color: var(--global-hover-color);
       }
+  }
+  // Locks the bolded first name behavior to the other behaviors
+  // eg the hover behavior from above
+  .font-weight-bold {
+      color: inherit;
   }
   .navbar-brand.social {
     padding-bottom: 0;
