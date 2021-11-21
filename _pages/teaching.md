@@ -5,6 +5,10 @@ title: Teaching
 description: I am currently a Teaching Assistant at UC Riverside
 nav: true
 ---
+**Fall 2021**
+
+  * Math 31: Applied Linear Algebra
+
 **Spring 2021**
 
   * Math 132: Linear Algebra II
