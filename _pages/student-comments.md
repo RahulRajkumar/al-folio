@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /selected-comments/
-title: Selected Student Comments
+title: Student Comments
 description: From anonymous instructor evaluations
 nav: true
 ---
