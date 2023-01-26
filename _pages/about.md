@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Ph.D. Student
+description: Ph.D. Student (Advisor - David Weisbart)
 
 profile:
   align: right
