@@ -31,11 +31,11 @@ In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside C
   * Professor Jennifer Crodelle: [https://sites.middlebury.edu/jcrodelle/](https://sites.middlebury.edu/jcrodelle/)
     * Professor Crodelle has supported my interest in mathematics and provided many hours of excellent advice on my career.
   * Professor Eloísa Grifo: [https://eloisagrifo.github.io/](https://eloisagrifo.github.io/)
-    * Professor Grifo is a phenomenal educator, and her notes on Commutative and Homological Algebra are equally amazing.
-  * Chris Grossack: [https://grossack.site/about](https://grossack.site/)
-    * Chris's blog is a fantastic source of mathematical exposition.
+    * Professor Grifo is a phenomenal educator, and her [notes on Commutative and Homological Algebra](https://eloisagrifo.github.io/CHAnotes.pdf) are equally amazing.
+  * Chris Grossack: [https://grossack.site/about](https://grossack.site/about)
+    * Chris's [blog](https://grossack.site) is a fantastic source of mathematical exposition.
   * Shane Rankin: [https://sites.google.com/view/shane-rankin/home](https://sites.google.com/view/shane-rankin/home)
-    * Shane has generously compiled notes for the pure mathematics graduate core sequence at UCR.
+    * Shane has generously compiled [notes](https://sites.google.com/view/shane-rankin/notes) for the pure mathematics graduate core sequence at UCR.
 
 #### Some Organizations I Support
   * Spectra, The Association for LGBT Mathematicians: [http://lgbtmath.org/](http://lgbtmath.org/)
