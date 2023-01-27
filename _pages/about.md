@@ -22,7 +22,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
 
-I am currently a second year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu). I graduated from NYU with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*, in May 2020, through the College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynamic/undergrad/ba-cas/majors-minors/honors-programs/). Please see [my CV](assets/pdf/cv.pdf) for more details!
+I am a third year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). I study Probability Theory and Stochastic Processes, specifically Brownian motion with symmetries. In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynambic/undergrad/ba-cas/majors-minors/honors-programs/) with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*.
+
+##### Fun Fact About Me
+In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside Concert Band](https://music.ucr.edu/concert-band) on the bassoon.
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
