@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 description: Ph.D. Student (Advisor - David Weisbart)
+nav_order: 0
 
 profile:
   align: right

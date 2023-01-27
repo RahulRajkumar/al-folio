@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I am currently a Teaching Assistant at UC Riverside
 nav: true
+nav_order: 3
 ---
 **Winter 2023**
   * Math 149B: Probability and Mathematical Statistics
