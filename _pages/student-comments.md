@@ -3,7 +3,7 @@ layout: page
 permalink: /selected-comments/
 title: Student Comments
 description: From anonymous instructor evaluations
-nav: true
+nav: false
 nav_order: 2
 ---
 *Rahul did a great job TAing Math 121. He was super helpful during office hours. I also liked how he changed the approach to the class when he saw we were struggling and asked what we preferred to do for the worksheets. I also like how engaging he made the discussion session*
