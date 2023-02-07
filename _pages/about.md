@@ -30,6 +30,9 @@ In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Progr
 #### Fun Fact About Me
 In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside Concert Band](https://music.ucr.edu/concert-band) on the bassoon. I am classically trained on the alto saxophone.
 
+#### Diversity, Equity, & Inclusion
+
+I believe that mathematics is one of humanity's great achievements, comparable to the study of great literature from the world over. As such, no one should be excluded from learning about mathematics. I support organizations like [Spectra](http://lgbtmath.org/): The Association for LGBT Mathematicians and the [Association for Women in Mathematics](https://awm-math.org/). I am also a graduate student mentor for the [UCR Chapter](https://sites.google.com/ucr.edu/ucrawm/home) of the [Pacific Math Alliance](https://sites.google.com/view/the-pacific-math-alliance), which aims to "support underserved students to join the STEM pipeline and pursue advanced study or a career in the mathematical sciences."
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
