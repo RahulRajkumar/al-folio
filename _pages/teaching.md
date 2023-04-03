@@ -7,9 +7,11 @@ nav: true
 nav_title: Teaching
 nav_order: 3
 ---
-While at UCR, I have been a Teaching Assistant for a variety of upper and lower division mathematics courses. In Fall 2022, I served as a primary instructor for the UCR Math 5A: The Principles of Calculus I. The Math 5 sequence is part of a project to reimagined calculus and pre-calculus education, supported by the California Learning Lab through [A New Mathematics Gateway](https://calearninglab.org/project/a-new-mathematics-gateway/). Please see [here]() for a pdf of select student comments from anonymous instructor evaluations.
+While at UCR, I have been a Teaching Assistant for a variety of upper and lower division mathematics courses. In Fall 2022, I served as a primary instructor for the UCR Math 5A: The Principles of Calculus I. The Math 5 sequence is part of a project to reimagined calculus and pre-calculus education, supported by the California Learning Lab through [A New Mathematics Gateway](https://calearninglab.org/project/a-new-mathematics-gateway/). {::comment} Please see [here]() for a pdf of select student comments from anonymous instructor evaluations.{:/comment}
 
 #### UCR Teaching Experience
+  * **TA** UCR Math 45: Introduction to Ordinary Differential Equations for Physical Sciences and Engineering
+  * **TA** UCR Math 7A: Calculus for Life Sciences
   * **TA** UCR Math 149B: Probability and Mathematical Statistics (Winter 2023)
   * **TA** UCR Math 46: Introduction to Ordinary Differential Equations (Winter 2023)
   * **TA** UCR Math 9A: First Year of Calculus (Winter 2023)
