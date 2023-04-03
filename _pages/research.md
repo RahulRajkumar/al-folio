@@ -12,9 +12,11 @@ My [recent work](http://arxiv.org/abs/2210.16429v1) on a direct p-adic analogue 
 
 #### Select Talks
 * **48th Annual New York State Regional Graduate Mathematics Conference**
-[Slides](/assets/pdf/Elements and Applications of p-adic Analysis.pdf) (April 1,2023)
+  * "Elements and Applications of p-Adic Analysis" [(Slides)](/assets/pdf/Elements and Applications of p-adic Analysis.pdf) (April 1,2023)
 * **JMM 2023 AMS Contributed Paper Session on Probability Theory and Stochastic Processes**
-[Slides](/assets/pdf/JMM 2023.pdf) (January 6, 2023)
-* **JMM 2023 AMS Special Session on Advances in Markov Models: Gambler’s Ruin, Duality and Queueing Applications** [Extended Slides](/assets/pdf/JMM 2023 Extended.pdf) (January 7, 2023)
+  * "Components and Exit Times of Brownian Motion in Multiple p-Adic Dimensions" [(Slides)](/assets/pdf/JMM 2023.pdf) (January 6, 2023)
+* **JMM 2023 AMS Special Session on Advances in Markov Models: Gambler’s Ruin, Duality and Queueing Applications**
+  * "Components and Exit Times of Brownian Motion in Multiple p-Adic Dimensions" [(Extended Slides)](/assets/pdf/JMM 2023 Extended.pdf) (January 7, 2023)
   * Professor Alan Krinik (Cal Poly Pomona) kindly invited me give an extended version of my contributed talk
-* **Virtual Research Seminar on Non-Archimedean Analysis and Mathematical Physics (UT RGV)** [Slides]() (September 21, 2022)
+* **Virtual Research Seminar on Non-Archimedean Analysis and Mathematical Physics (UT RGV)**
+  * "Diffusion Experiments in a p-Adic Universe" (September 21, 2022)
