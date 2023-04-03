@@ -23,16 +23,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
 
-I am a third year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). I am broadly interested in Probability Theory and Stochastic Processes. My current work is focused on the interplay between Brownian motions/diffusion and symmetry. 
+I am a third year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynambic/undergrad/ba-cas/majors-minors/honors-programs/) with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*.
 
-In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynambic/undergrad/ba-cas/majors-minors/honors-programs/) with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*.
+#### Research Interests
+
+I am broadly interested in Probability Theory and Stochastic Processes. I work with stochastic processes valued in p-adic spaces. The overarching theme of my research program is the interplay between Brownian motions/diffusion processes and symmetry. 
+
+
 
 #### Fun Fact About Me
 In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside Concert Band](https://music.ucr.edu/concert-band) on the bassoon. I am classically trained on the alto saxophone.
 
 #### Diversity, Equity, & Inclusion
 
-I believe that mathematics is one of humanity's great achievements, comparable to the study of great literature from the world over. As such, no one should be excluded from learning about mathematics. I support DEI organizations including [Spectra](http://lgbtmath.org/): The Association for LGBT Mathematicians and the [Association for Women in Mathematics](https://awm-math.org/). I am also a graduate student mentor for the [UCR Chapter](https://sites.google.com/ucr.edu/ucrawm/home) of the [Pacific Math Alliance](https://sites.google.com/view/the-pacific-math-alliance), which aims to "support underserved students [in] the STEM pipeline and pursue advanced study or a career in the mathematical sciences."
+I believe that mathematics is one of humanity's great achievements, comparable to the study of great literature from the world over. As such, no one should be excluded from learning about mathematics. I support DEI organizations including [Spectra](http://lgbtmath.org/): The Association for LGBT Mathematicians and the [Association for Women in Mathematics](https://awm-math.org/).
 
 {::comment}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
