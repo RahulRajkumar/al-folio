@@ -23,16 +23,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
 
-I am a third year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynambic/undergrad/ba-cas/majors-minors/honors-programs/) with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*.
+I am a fourth year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). In June 2023, I received an M.S. in Applied Mathematics from UC Riverside. In May 2020, I graduated from the NYU College of Arts and Sciences [Honors Program](https://math.nyu.edu/dynambic/undergrad/ba-cas/majors-minors/honors-programs/) with a [B.A. in Mathematics](https://math.nyu.edu/dynamic/undergrad/ba-cas/overview/), *magna cum laude*. For more information, please view [my resume](/assets/pdf/Resume.pdf).
 
 #### Research Interests
 
-I am broadly interested in Probability Theory and Stochastic Processes. I work with stochastic processes valued in p-adic spaces. The overarching theme of my research program is the interplay between Brownian motions/diffusion processes and symmetry. 
+I am broadly interested in Probability Theory and Stochastic Processes. I work with stochastic processes valued in p-adic spaces, alternatives to the real numbers that naturally display hierarchical, ultra-metric structure. The overarching theme of my research program is the interplay between Brownian motions/diffusion processes and symmetry. 
 
 
 
 #### Fun Fact About Me
-In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside Concert Band](https://music.ucr.edu/concert-band) on the bassoon. I am classically trained on the alto saxophone.
+In addition to pursuing a Ph.D. in Mathematics, I perform in the [UC Riverside Concert Band](https://music.ucr.edu/concert-band) on the bassoon, and am classically trained on the alto saxophone.
 
 #### Diversity, Equity, & Inclusion
 
