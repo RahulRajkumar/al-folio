@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page. Note that this includes mailto
 ---
 
-I am a fourth year Ph.D. student in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). I am broadly interested in Probability Theory and Stochastic Processes. I work with stochastic processes valued in p-adic spaces, alternatives to the real numbers that naturally display hierarchical, ultra-metric structure. The overarching theme of my research program is the interplay between Brownian motions/diffusion processes and symmetry.
+I am a fourth year Ph.D. candidate in the [UC Riverside Mathematics Department](https://mathdept.ucr.edu) under [Professor David Weisbart](https://the-weisbart-group.github.io/). I am broadly interested in Probability Theory and Stochastic Processes. I work with stochastic processes valued in p-adic spaces, alternatives to the real numbers that naturally display hierarchical, ultra-metric structure. The overarching theme of my research program is the interplay between Brownian motions/diffusion processes and symmetry.
 
 #### Education
 - **Ph.D. in Mathematics**, *UC Riverside* (2020 - Present)
